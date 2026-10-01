@@ -1,0 +1,7 @@
+Personalisation Engine build completed locally on 2026-10-01.
+Tests: 18 passed (pytest).
+Local implementation commit: 924f3c996852b92af24a1d11729a9f514b4bbb7d
+The completion-record commit follows this implementation commit; git rev-parse HEAD gives the final repository commit.
+Measured installed CLI fixture/run/report demo: 0.751 seconds, under 5 seconds.
+
+Built an offline, CPU-only deterministic Python pe CLI with fixtures, run, report, validate and preview commands. Pure domain logic selects explicit sourced prospect facts and emits cited opening lines or named abstentions. The 200-record synthetic fixture reconciles exactly with independent hand-computed expectations: 120 generated lines, 80 abstentions and zero false positives or false negatives. Markdown and JSON reports carry provenance and unmeasured-impact notices. Validation, atomic output writes, adversarial tests, docs, lessons and a pending two-week real-use verdict are included. No publication or real-use evidence is claimed.
